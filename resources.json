@@ -1,0 +1,218 @@
+[
+  {
+    "id": "b1",
+    "title": "Official Python Documentation - Getting Started",
+    "type": "Documentation",
+    "description": "The official Python documentation's beginner guide",
+    "url": "https://docs.python.org/3/tutorial/index.html",
+    "level": "beginner",
+    "tags": ["syntax", "basics", "installation"]
+  },
+  {
+    "id": "b2",
+    "title": "Python for Everybody (py4e)",
+    "type": "Free Course",
+    "description": "A complete beginner-friendly Python course by Dr. Charles Severance",
+    "url": "https://www.py4e.com/",
+    "level": "beginner",
+    "tags": ["basics", "programming", "fundamentals"]
+  },
+  {
+    "id": "b3",
+    "title": "W3Schools Python Tutorial",
+    "type": "Tutorial",
+    "description": "Interactive Python tutorial with exercises and examples",
+    "url": "https://www.w3schools.com/python/",
+    "level": "beginner",
+    "tags": ["syntax", "examples", "interactive"]
+  },
+  {
+    "id": "b4",
+    "title": "Automate the Boring Stuff with Python",
+    "type": "Free Book",
+    "description": "Practical programming for total beginners by Al Sweigart",
+    "url": "https://automatetheboringstuff.com/",
+    "level": "beginner",
+    "tags": ["automation", "practical", "scripts"]
+  },
+  {
+    "id": "b5",
+    "title": "Real Python - Python Basics",
+    "type": "Tutorial",
+    "description": "Python basics with practical examples and explanations",
+    "url": "https://realpython.com/python-basics/",
+    "level": "beginner",
+    "tags": ["basics", "examples", "fundamentals"]
+  },
+  {
+    "id": "b6",
+    "title": "Codecademy - Learn Python",
+    "type": "Interactive Course",
+    "description": "Interactive Python course with coding exercises",
+    "url": "https://www.codecademy.com/learn/learn-python-3",
+    "level": "beginner",
+    "tags": ["interactive", "basics", "syntax"]
+  },
+  {
+    "id": "b7",
+    "title": "freeCodeCamp - Python Beginner Course",
+    "type": "Video Course",
+    "description": "Full Python course for beginners on YouTube",
+    "url": "https://www.youtube.com/watch?v=rfscVS0vtbw",
+    "level": "beginner",
+    "tags": ["video", "comprehensive", "tutorial"]
+  },
+  {
+    "id": "b8",
+    "title": "Programiz Python Tutorial",
+    "type": "Tutorial",
+    "description": "Step by step Python tutorial with examples",
+    "url": "https://www.programiz.com/python-programming",
+    "level": "beginner",
+    "tags": ["tutorial", "examples", "basics"]
+  },
+  {
+    "id": "i1",
+    "title": "Python Design Patterns",
+    "type": "Tutorial",
+    "description": "Implementation of design patterns in Python",
+    "url": "https://refactoring.guru/design-patterns/python",
+    "level": "intermediate",
+    "tags": ["design patterns", "OOP", "architecture"]
+  },
+  {
+    "id": "i2",
+    "title": "Intermediate Python",
+    "type": "Free Book",
+    "description": "A free book for intermediate Python programmers",
+    "url": "https://book.pythontips.com/en/latest/",
+    "level": "intermediate",
+    "tags": ["advanced concepts", "tips", "tricks"]
+  },
+  {
+    "id": "i3",
+    "title": "Fluent Python",
+    "type": "Book Excerpts",
+    "description": "Clear, concise, and effective programming with Python",
+    "url": "https://github.com/fluentpython",
+    "level": "intermediate",
+    "tags": ["idiomatic", "effective", "pythonic"]
+  },
+  {
+    "id": "i4",
+    "title": "Real Python - Intermediate Topics",
+    "type": "Tutorial Collection",
+    "description": "A collection of intermediate-level Python tutorials",
+    "url": "https://realpython.com/tutorials/intermediate/",
+    "level": "intermediate",
+    "tags": ["diverse topics", "practical", "tutorials"]
+  },
+  {
+    "id": "i5",
+    "title": "Python Testing with pytest",
+    "type": "Tutorial",
+    "description": "Learn about testing Python applications with pytest",
+    "url": "https://realpython.com/pytest-python-testing/",
+    "level": "intermediate",
+    "tags": ["testing", "pytest", "quality"]
+  },
+  {
+    "id": "i6",
+    "title": "Python Tricks: The Book",
+    "type": "Book Samples",
+    "description": "A buffet of awesome Python features and tricks",
+    "url": "https://realpython.com/products/python-tricks-book/",
+    "level": "intermediate",
+    "tags": ["tricks", "features", "techniques"]
+  },
+  {
+    "id": "i7",
+    "title": "Python Data Science Handbook",
+    "type": "Free Book",
+    "description": "Python data science libraries and techniques",
+    "url": "https://jakevdp.github.io/PythonDataScienceHandbook/",
+    "level": "intermediate",
+    "tags": ["data science", "numpy", "pandas", "matplotlib"]
+  },
+  {
+    "id": "i8",
+    "title": "Python Concurrency",
+    "type": "Tutorial",
+    "description": "Understanding concurrency in Python with threading, multiprocessing, and asyncio",
+    "url": "https://realpython.com/python-concurrency/",
+    "level": "intermediate",
+    "tags": ["concurrency", "threading", "asyncio"]
+  },
+  {
+    "id": "a1",
+    "title": "Python 3 Module of the Week",
+    "type": "Documentation",
+    "description": "Deep dive into Python's standard library modules",
+    "url": "https://pymotw.com/3/",
+    "level": "advanced",
+    "tags": ["standard library", "modules", "reference"]
+  },
+  {
+    "id": "a2",
+    "title": "Python Cookbook",
+    "type": "Book Excerpts",
+    "description": "Recipes for mastering Python 3",
+    "url": "https://github.com/dabeaz/python-cookbook",
+    "level": "advanced",
+    "tags": ["recipes", "techniques", "advanced patterns"]
+  },
+  {
+    "id": "a3",
+    "title": "CPython Internals",
+    "type": "Tutorial",
+    "description": "Understanding the internals of CPython",
+    "url": "https://realpython.com/cpython-source-code-guide/",
+    "level": "advanced",
+    "tags": ["cpython", "internals", "c-api"]
+  },
+  {
+    "id": "a4",
+    "title": "Full Stack Python",
+    "type": "Documentation",
+    "description": "Full stack Python web development",
+    "url": "https://www.fullstackpython.com/",
+    "level": "advanced",
+    "tags": ["web development", "deployment", "frameworks"]
+  },
+  {
+    "id": "a5",
+    "title": "Python Decorators",
+    "type": "Tutorial",
+    "description": "Deep dive into Python decorators",
+    "url": "https://realpython.com/primer-on-python-decorators/",
+    "level": "advanced",
+    "tags": ["decorators", "metaprogramming", "functions"]
+  },
+  {
+    "id": "a6",
+    "title": "Building Machine Learning Systems with Python",
+    "type": "Tutorial Series",
+    "description": "Advanced machine learning with Python",
+    "url": "https://github.com/luispedro/BuildingMachineLearningSystemsWithPython",
+    "level": "advanced",
+    "tags": ["machine learning", "algorithms", "data science"]
+  },
+  {
+    "id": "a7",
+    "title": "Python Performance Optimization",
+    "type": "Tutorial",
+    "description": "Advanced techniques for optimizing Python code",
+    "url": "https://pythonspeed.com/",
+    "level": "advanced",
+    "tags": ["performance", "optimization", "profiling"]
+  },
+  {
+    "id": "a8",
+    "title": "Making Python Programs Blazingly Fast",
+    "type": "Video",
+    "description": "Advanced techniques for high-performance Python",
+    "url": "https://www.youtube.com/watch?v=o9wePFI0XkE",
+    "level": "advanced",
+    "tags": ["optimization", "performance", "cython"]
+  }
+]
